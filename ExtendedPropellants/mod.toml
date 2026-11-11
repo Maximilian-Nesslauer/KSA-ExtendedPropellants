@@ -1,0 +1,9 @@
+name = "Extended Propellants"
+version = "1.0.0"
+description = "Adds liquid propane and the liquid oxygen and propane engine reaction (Propalox), with a yellow and orange exhaust plume. It adds no parts. Other mods use it for their engines."
+
+assets = [
+    "PropellantSubstances.xml",
+    "PropellantReactions.xml",
+    "PropellantExhaust.xml"
+]

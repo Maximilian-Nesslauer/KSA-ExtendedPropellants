@@ -1,0 +1,97 @@
+<!-- Liquid propane. Data from CoolProp (Propane, Lemmon et al. 2009) and NASA CEA thermo data, made with the rules of the stock Volatiles.xml. -->
+<Assets>
+  <Substance Id="ExtProp_C3H8" DefaultPhase="Gas">
+    <ShortName Value="Propane" />
+    <Description Value="A dense hydrocarbon that liquefies with moderate cooling. It stores in smaller tanks than methane and burns with a bright, sooty flame." />
+    <HydrogenMassFraction Value="0.1829" />
+    <Color R="0.7569" G="0.4627" B="0.8196" />
+    <Gas>
+      <StorageTemperature K="283.15" />
+      <MolarMass GPerMol="44.09562" />
+      <ThermalConditions>
+        <ThermalCondition>
+          <Temperature K="231.0362146443222" />
+          <HeatCapacityPerKgK J="1383.357115293563" />
+          <ThermalConductivityPerMK W="0.011568214395528662" />
+          <Gamma Value="1.157813029152174" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="292.34422250864924" />
+          <HeatCapacityPerKgK J="1637.4850454431908" />
+          <ThermalConductivityPerMK W="0.017676025896181682" />
+          <Gamma Value="1.1301341865962844" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="369.92098648153166" />
+          <HeatCapacityPerKgK J="1987.7985380871046" />
+          <ThermalConductivityPerMK W="0.026938781527289193" />
+          <Gamma Value="1.1047970002080258" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="468.08360043927706" />
+          <HeatCapacityPerKgK J="2415.212664173349" />
+          <ThermalConductivityPerMK W="0.04114485437744404" />
+          <Gamma Value="1.08468087508175" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="592.2947467354228" />
+          <HeatCapacityPerKgK J="2883.7209791481023" />
+          <ThermalConductivityPerMK W="0.0631233550811822" />
+          <Gamma Value="1.069960557766162" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="749.4666907389095" />
+          <HeatCapacityPerKgK J="3365.3048573029077" />
+          <ThermalConductivityPerMK W="0.09736161536527663" />
+          <Gamma Value="1.0593547872886584" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="948.3459436759837" />
+          <HeatCapacityPerKgK J="3844.2975034660353" />
+          <ThermalConductivityPerMK W="0.15099150178713963" />
+          <Gamma Value="1.0515778421428474" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="1200.0" />
+          <HeatCapacityPerKgK J="4289.777218892298" />
+          <ThermalConductivityPerMK W="0.23536611135285693" />
+          <Gamma Value="1.0459753941739123" />
+        </ThermalCondition>
+      </ThermalConditions>
+    </Gas>
+    <Liquid>
+      <StorageTemperature K="230.0362146443222" />
+      <BoilingTemperature K="231.0362146443222" />
+      <EnthalpyOfVaporizationPerKg J="425591.6000836007" />
+      <MinStoragePressure Pa="96931.87000916578" />
+      <StorageDensity KgPerM3="582.0414300945554" />
+      <ThermalConditions>
+        <ThermalCondition>
+          <Temperature K="85.525" />
+          <HeatCapacityPerKgK J="1915.8509248346656" />
+          <ThermalConductivityPerMK W="0.20832468211829663" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="121.90280366108055" />
+          <HeatCapacityPerKgK J="1959.7371406950888" />
+          <ThermalConductivityPerMK W="0.19395466591763852" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="158.2806073221611" />
+          <HeatCapacityPerKgK J="2021.9180598005275" />
+          <ThermalConductivityPerMK W="0.17379122106627828" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="194.65841098324165" />
+          <HeatCapacityPerKgK J="2110.323385387631" />
+          <ThermalConductivityPerMK W="0.15149294408794473" />
+        </ThermalCondition>
+        <ThermalCondition>
+          <Temperature K="231.0362146443222" />
+          <HeatCapacityPerKgK J="2246.0427413419343" />
+          <ThermalConductivityPerMK W="0.12947221713830143" />
+        </ThermalCondition>
+      </ThermalConditions>
+    </Liquid>
+  </Substance>
+</Assets>
