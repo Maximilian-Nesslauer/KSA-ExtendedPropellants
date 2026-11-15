@@ -71,4 +71,4 @@ MIT ([LICENSE](LICENSE)).
 
 ## Links
 
-[Forum thread](https://forums.ahwoo.com/threads/extended-propellants.ID/) | [Issues](https://github.com/Maximilian-Nesslauer/KSA-ExtendedPropellants/issues)
+[Forum thread](https://forums.ahwoo.com/forums/kitten-space-agency/mod-releases/extended-propellants.1632/) | [Issues](https://github.com/Maximilian-Nesslauer/KSA-ExtendedPropellants/issues)
