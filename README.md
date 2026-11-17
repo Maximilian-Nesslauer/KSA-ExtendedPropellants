@@ -2,7 +2,9 @@
 
 A data-only mod for [Kitten Space Agency](https://ahwoo.com/app/100000/kitten-space-agency). It adds liquid propane, the reaction liquid oxygen plus propane and a yellow and orange exhaust plume. It has no parts and no code; other mods use it for their engines, for example [Prisma by Purrline Rocketworks](https://github.com/Maximilian-Nesslauer/KSA-PurrlinePrisma).
 
-Validated against KSA build version 2026.11.10.5801.
+## Compatibility
+
+Validated against KSA build version **2026.11.16.5901**.
 
 [![Watch the Prisma launch video](https://img.youtube.com/vi/jkoOCArH9X4/maxresdefault.jpg)](https://youtu.be/jkoOCArH9X4)
 
