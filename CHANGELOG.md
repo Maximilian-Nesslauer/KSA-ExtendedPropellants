@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Mark the mod as compatible with KSA 2026.11.25.5949. No functional changes.
+
 ## 1.0.1
 
 - Update the documented game build to KSA 2026.11.16.5901. No functional changes.
